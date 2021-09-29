@@ -6,3 +6,5 @@ First Container:
 
 Second Container:
 1. Screenshot of jupyter notebook: jupyter.png
+Extra:
+1. Screenshot of first container running on kubernetes: kubernete_deployment.png
