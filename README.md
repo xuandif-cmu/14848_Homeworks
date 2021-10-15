@@ -1,3 +1,3 @@
 # 14848_Homeworks
-1. HW2: Docker
-2. Mini Project: Sentiment Analysis
+1. Docker: HW2
+2. Sentiment Analysis: Mini Project
