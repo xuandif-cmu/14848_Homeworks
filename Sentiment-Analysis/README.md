@@ -32,4 +32,4 @@
 4. VideoDemo:
     Please select 1080p for the following videos,
     - Youtube: https://www.youtube.com/watch?v=2W7Sx7066TI
-    - Google Drive(Just In case youtube link not working): https://drive.google.com/file/d/19NKc-l1LqbW42_DDchP4smkWgdnWnN0R/view?usp=sharing
+    - In case youtube link not working, Google drive link is also provided here: https://drive.google.com/file/d/19NKc-l1LqbW42_DDchP4smkWgdnWnN0R/view?usp=sharing
