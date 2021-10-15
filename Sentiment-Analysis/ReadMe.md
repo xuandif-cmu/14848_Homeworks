@@ -30,4 +30,6 @@
     - https://hub.docker.com/r/xuandif/sentiment-analysis-web-app
   
 4. VideoDemo:
-    - https://www.youtube.com/watch?v=2W7Sx7066TI
+    Please select 1080p for the following videos,
+    - Youtube: https://www.youtube.com/watch?v=2W7Sx7066TI
+    - Google Drive(Just In case youtube link not working): https://drive.google.com/file/d/19NKc-l1LqbW42_DDchP4smkWgdnWnN0R/view?usp=sharing
