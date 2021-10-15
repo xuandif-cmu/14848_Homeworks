@@ -13,8 +13,8 @@
         ```
     3. Check the external IP of web-app and substitute the web-app ip in the App.js, then update the docker image for frontend,
         ```
-        docker build -f Dockerfile -t xuandif/sentiment-analysis-frontend:minikube .
-        docker push xuandif/sentiment-analysis-frontend:minikube
+        docker build -f Dockerfile -t xuandif/sentiment-analysis-frontend:minikube80 .
+        docker push xuandif/sentiment-analysis-frontend:minikube80
         ```
     4. Update the Kubernete container for frontend with,
         ```
