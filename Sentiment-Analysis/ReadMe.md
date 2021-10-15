@@ -30,4 +30,4 @@
     - https://hub.docker.com/r/xuandif/sentiment-analysis-web-app
   
 4. VideoDemo:
-    - https://drive.google.com/file/d/19NKc-l1LqbW42_DDchP4smkWgdnWnN0R/view?usp=sharing
+    - https://www.youtube.com/watch?v=2W7Sx7066TI
