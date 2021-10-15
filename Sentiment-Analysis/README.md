@@ -21,9 +21,9 @@
         kubectl apply -f sa-frontend-deployment.yaml
         ```
         And then it's all set.
-2. Screenshot for the execution of my application on Google Kubernetes Engine,
-    - GKE.png: showing the external IP for frontend-app running on GKE
+2. Screenshots for the execution of my application on Google Kubernetes Engine,
     - app.png: showing the application running on that external IP.
+    - GKE.png: showing the external IP for frontend-app running on GKE
 3. Docker Hub images:
     - https://hub.docker.com/r/xuandif/sentiment-analysis-frontend (use "minikube80" tag)
     - https://hub.docker.com/r/xuandif/sentiment-analysis-logic
