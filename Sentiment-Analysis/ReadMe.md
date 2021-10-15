@@ -29,3 +29,5 @@
     - https://hub.docker.com/r/xuandif/sentiment-analysis-logic
     - https://hub.docker.com/r/xuandif/sentiment-analysis-web-app
   
+4. VideoDemo:
+    - https://www.youtube.com/watch?v=2W7Sx7066TI
