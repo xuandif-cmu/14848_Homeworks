@@ -21,7 +21,7 @@
         kubectl apply -f sa-frontend-deployment.yaml
         ```
         And then it's all set.
-2. Screenshot for the execution of your application on Google Kubernetes Engine,
+2. Screenshot for the execution of my application on Google Kubernetes Engine,
     - GKE.png: showing the external IP for frontend-app running on GKE
     - app.png: showing the application running on that external IP.
 3. Docker Hub images:
