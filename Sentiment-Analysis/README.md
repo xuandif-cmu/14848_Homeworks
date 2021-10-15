@@ -1,6 +1,6 @@
 1. Steps for getting applications working on GKE:
-    1. Build and push docker images locally for sentiment-analysis-frontend, sentiment-analysis-web-app,sentiment-analysis-logic. 
-        E.g. for frontend, use the following command to build and push docker images,
+    1. Build docker images for sentiment-analysis-frontend, sentiment-analysis-web-app,sentiment-analysis-logic and then push them to docker hub.
+        E.g. for frontend, use the following commands to build and push docker images,
         ```
         docker build -f Dockerfile -t xuandif/sentiment-analysis-frontend .
         docker push xuandif/sentiment-analysis-frontend
