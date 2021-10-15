@@ -17,6 +17,7 @@
         kubectl get svc
         ```
         Substitute the web-app ip in the App.js of frontend, then update the docker image for frontend,
+        ```
         docker build -f Dockerfile -t xuandif/sentiment-analysis-frontend:minikube80 .
         docker push xuandif/sentiment-analysis-frontend:minikube80
         ```
