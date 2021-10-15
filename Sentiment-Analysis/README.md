@@ -11,8 +11,12 @@
         kubectl apply -f sa-frontend-deployment.yaml
         kubectl apply -f service-sa-frontend-lb.yaml
         ```
-    3. Check the external IP of web-app and substitute the web-app ip in the App.js of frontend, then update the docker image for frontend,
+        (Note: the name of sa-logic service is changed to sa-logic-svc to make it distinguishable with sa-logic container.)
+    3. Check the external IP of web-app,
         ```
+        kubectl get svc
+        ```
+        Substitute the web-app ip in the App.js of frontend, then update the docker image for frontend,
         docker build -f Dockerfile -t xuandif/sentiment-analysis-frontend:minikube80 .
         docker push xuandif/sentiment-analysis-frontend:minikube80
         ```
